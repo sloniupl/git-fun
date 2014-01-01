@@ -3,10 +3,6 @@
 
 int main()
 {
-<<<<<<< HEAD
-//some comment
-=======
-//other comment
->>>>>>> conflictbranch
+//making conflict again
 printf("Test, test, test \n");
 }
