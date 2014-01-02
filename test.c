@@ -5,4 +5,5 @@ int main()
 {
 //blablabla
 printf("Test, test, test \n");
+printf("ArchLinux nie jest super \n");
 }
